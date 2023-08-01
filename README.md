@@ -1,1 +1,2 @@
 # car-price-predictor
+This project is a car price predictor that uses Python libraries to predict the price of a car based on various features. The model takes into account factors such as the make and model of the car, its age, mileage, and condition, among others, to provide an accurate prediction of its market value. The project is easy to use and can be a valuable tool for anyone looking to buy or sell a car. Simply input the relevant information about the car and let the model do the rest!
